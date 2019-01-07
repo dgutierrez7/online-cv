@@ -118,12 +118,13 @@ experiences:
         Lead the conversion and implementation of Cisco Voice communication to company’s remote locations. Including new site design, set-up and administration for acquired offices.
 projects:
     title: Projects
-    intro: >
-    Strategy And Product Developement Projects
+    intro: |
+        Strategy And Product Developement Projects.
+     
      assignments:
       - title: IT Strategic Roadmap
-        link: "#hook"
-        tagline: " A comprehensive 5 year IT program strategy and roadmap."
+        link: "#"
+        tagline: "A comprehensive 5 year IT program strategy and roadmap."
 
       - title: O365 Assessment and Roadmap
         link: "#"
