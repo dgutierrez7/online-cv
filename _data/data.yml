@@ -46,6 +46,10 @@ sidebar:
       - item: Agile Development
         link:
 
+languages:
+      - idiom: 
+        level: 
+        
 career-profile:
     title: Summary
     summary: |
