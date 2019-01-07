@@ -29,14 +29,26 @@ sidebar:
         level: Native
 
       
-    interests:
-      - item: Climbing
+    skills-side:
+      - item: Team Leadership
         link:
 
-      - item: Snowboarding
+      - item: Strategic Planning
         link:
 
-      - item: Cooking
+      - item: Frond-End Development
+        link:
+      
+      - item: Automated Workflow
+        link:
+      
+      - item: Program Management
+        link:
+      
+      - item: Creative Design
+        link:
+      
+      - item: Agile Development
         link:
 
 career-profile:
