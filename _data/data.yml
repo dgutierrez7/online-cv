@@ -28,12 +28,7 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
-
+      
     interests:
       - item: Climbing
         link:
@@ -45,11 +40,10 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Critical Thinking and Strategic Advisory Technologist with 13 years experience in the Tech space. Seeking to make tangible impact in employee productivity through operationalizing strategic objectives to drive results. Achieved 40% increase in revenue for the applications practice at Long View Systems and 50% increase in team utilization.
 
-      Second paragraph if required.
 
 education:
     - degree: BS in Computer Information Systems
@@ -79,48 +73,29 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Application Lead / Solutions Architect
+      time: 2018 - Present
+      company: Long View Systems
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Accomplishments
+Created a client engagement model to use in strategic solution programs that improved project alignment and resulted in 10% sales increase.
+Contributed to the applications team product strategy – including the design, development, marketing demos and sales enablement content of productivity platform solutions.
+Performed market research and analysis to position the applications team for a hypercompetitive market improving pricing strategy by increasing to 50% margin.
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Strategic Advisor
+      time: 2018 - Present
+      company: Diversity(hirediversity.us)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Accomplishments
+Worked with the Executive team in strategic planning, prioritizing objectives and developing key results that align to company goals. The result was a method to ensure the stability and growth of a startup organization. 
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Co-Founder / Executive Directory
+      time: 2017 - Present
+      company: CoDiv.org
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Created a Platform to connect people who care about diversity and inclusion in a safe space to learn and collaborate on ideas to grow the community of underrepresented talent in Colorado.
 
 projects:
     title: Projects
@@ -193,4 +168,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
