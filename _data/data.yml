@@ -101,18 +101,23 @@ experiences:
 
 
     - role: SharePoint Developer
-      time: 2016 - 2018
-      company: PDC |
-               QEP
+      time: 2012 - 2016
+      company: QEP Resources | PDC Energy
       details: |
         Responsible for designing and implementing a multi-tier SharePoint information and solution architecture. Developed custom web /workflow apps and guided requirements gathering and analysis to find best solutions within the Microsoft Stack.
    
    
-    - role: Applications Consultant
-      time: 2016 - 2018
-      company: Credera
+    - role: Infrastructure Systems Administrator
+      time: 2009 - 2012
+      company: QuikOrder | Levenfeld Pearlstein | QEP Resources
       details: |
-        As a Senior Consultant, I leverage the breadth of the Microsoft stack to help clients meet critical business objectives with a reliable, trusted, and highly integrated platform.
+        My main objective was to sustain the performance and stability of the infrastructure operations as a level 2 – 3 technical resource to senior teams. Contributed to multiple architecture designs and technical procedures. Supporting and maintaining complex environments at various levels of the I.T. framework.
+
+    - role: Network Administrator
+      time: 2005 - 2009
+      company: MarkWest Energy
+      details: |
+        Lead the conversion and implementation of Cisco Voice communication to company’s remote locations. Including new site design, set-up and administration for acquired offices.
 
 
 projects:
