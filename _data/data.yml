@@ -25,8 +25,8 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: 
-        level: 
+      - idiom: English
+        level: Native
 
       
     skills-side:
@@ -55,8 +55,6 @@ career-profile:
     title: Summary
     summary: |
       Critical Thinking and Strategic Advisory Technologist with 13 years experience in the Tech space. Seeking to make tangible impact in employee productivity through operationalizing strategic objectives to drive results. Achieved 40% increase in revenue for the applications practice at Long View Systems and 50% increase in team utilization.
-
-
 education:
     - degree: BS in Computer Information Systems
       university: Devry University
@@ -67,10 +65,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
     - degree: 
       university: 
       time: 
@@ -80,32 +76,29 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
 experiences:
     - role: Application Lead / Solutions Architect
       time: 2018 - Present
       company: Long View Systems
       details: |
         Created a client engagement model to use in strategic solution programs that improved project alignment and resulted in 10% sales increase. Contributed to the applications team product strategy – including the design, development, marketing demos and sales enablement content of productivity platform solutions. Performed market research and analysis to position the applications team for a hypercompetitive market improving pricing strategy by increasing to 50% margin.
-
-
     - role: Strategic Advisor
       time: 2018 - Present
       company: Diversity(hirediversity.us)
       details: |
         Worked with the Executive team in strategic planning, prioritizing objectives and developing key results that align to company goals. The result was a method to ensure the stability and growth of a startup organization. 
-
-
+    - role: Co-Founder / Executive Directory
+      time: 2017 - Present
+      company: CoDiv.org
+      details: |
+        Created a Platform to connect people who care about diversity and inclusion in a safe space to learn and collaborate on ideas to grow the community of underrepresented talent in Colorado.
     - role: Applications Consultant
       time: 2016 - 2018
       company: Credera
       details: |
         As a Senior Consultant, I leverage the breadth of the Microsoft stack to help clients meet critical business objectives with a reliable, trusted, and highly integrated platform.
-
-
     - role: SharePoint Developer
       time: 2012 - 2016
       company: QEP Resources | PDC Energy
@@ -118,21 +111,17 @@ experiences:
       company: QuikOrder | Levenfeld Pearlstein | QEP Resources
       details: |
         My main objective was to sustain the performance and stability of the infrastructure operations as a level 2 – 3 technical resource to senior teams. Contributed to multiple architecture designs and technical procedures. Supporting and maintaining complex environments at various levels of the I.T. framework.
-
     - role: Network Administrator
       time: 2005 - 2009
       company: MarkWest Energy
       details: |
         Lead the conversion and implementation of Cisco Voice communication to company’s remote locations. Including new site design, set-up and administration for acquired offices.
-
-
 projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Velocity
         link: "#hook"
@@ -154,34 +143,18 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+
 skills:
-    title: 
-toolset:
-      - name: 
-        level: 
+    title: Skills &amp; Proficiency
 
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-     
-     - name: 
-        level: 
-
-      - name: 
-        level: 
-
+    toolset:
+      - name: Team Leadership
+      - name: Strategic Planning
+      - name: Front-End Development
+      - name: Automated Workflow
+      - name: Program Management
+      - name: Creative Design
+      - name: Agile Development
 
 
 footer: >
-    
