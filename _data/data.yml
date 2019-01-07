@@ -116,12 +116,13 @@ experiences:
       company: MarkWest Energy
       details: |
         Lead the conversion and implementation of Cisco Voice communication to company’s remote locations. Including new site design, set-up and administration for acquired offices.
+
 projects:
     title: Projects
-    intro: |
+    intro: >
         Strategy And Product Developement Projects.
      
-     assignments:
+    assignments:
       - title: IT Strategic Roadmap
         link: "#"
         tagline: "A comprehensive 5 year IT program strategy and roadmap."
