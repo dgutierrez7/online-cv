@@ -148,12 +148,13 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+{% comment %} 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+   title: Publications
+   intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  bibendum fringilla a eu lectus.
 
     papers:
       - title: The Art of Computer Programming
@@ -167,6 +168,7 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+  {% endcomment %}
 
 skills:
     title: Skills &amp; Proficiency
