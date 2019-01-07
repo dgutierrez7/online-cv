@@ -119,29 +119,18 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
+     assignments:
+      - title: IT Strategic Roadmap
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: " A comprehensive 5 year IT program strategy and roadmap."
 
-      - title: DevStudio
+      - title: O365 Assessment and Roadmap
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "An evaluation and strategy plan to implement the Microsoft Productivity Platform to increase productivity and align employee engagement."
 
-      - title: Tempo
+      - title: Productivity Workplace
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An employee experience product solution that leverages collaborative tools and operationalizes strategic initiatives “
 
 
 footer: >
