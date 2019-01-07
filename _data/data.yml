@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: gutierrez_dan@outlook.com
     phone: 303 204 5032
-    website: blog.webjeda.com #do not add http://
+    website: dgutierrez7.github.io/forty-jekyll-theme/ #do not add http://
     linkedin: dan-gutierrez-bbb23a4
     github: 
     gitlab:
@@ -24,12 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
-
-      
-    skills-side:
+   skills-side:
       - item: Team Leadership
         link:
 
