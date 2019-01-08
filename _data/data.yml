@@ -39,7 +39,10 @@ sidebar:
       - item: Frond-End Development
         link:
       
-      - item: Automated Workflow
+      - item: Workflow Development
+        link:
+        
+        - item: Collaboration Solutions
         link:
       
       - item: Program Management
@@ -116,23 +119,6 @@ experiences:
       company: MarkWest Energy
       details: |
         Lead the conversion and implementation of Cisco Voice communication to company’s remote locations. Including new site design, set-up and administration for acquired offices.
-projects:
-    title: Projects
-    intro: >
-        Strategy And Product Developement Projects.
-     
-    assignments:
-      - title: IT Strategic Roadmap
-        link: "#"
-        tagline: "A comprehensive 5 year IT program strategy and roadmap."
-
-      - title: O365 Assessment and Roadmap
-        link: "#"
-        tagline: "An evaluation and strategy plan to implement the Microsoft Productivity Platform to increase productivity and align employee engagement."
-
-      - title: Productivity Workplace
-        link: "#"
-        tagline: "An employee experience product solution that leverages collaborative tools and operationalizes strategic initiatives"
 
 
 footer: >
