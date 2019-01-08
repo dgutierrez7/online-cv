@@ -4,12 +4,13 @@
         size: A4;
     }
     body {
-       font-size: 12pt;
+       font-size: 10pt;
     }
 
     img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
+       display: none; 
+       //filter: grayscale(1);
+        //-webkit-filter: greyscale(1);
     }
    .main-wrapper .time {
        float: right;
@@ -19,13 +20,13 @@
     .sidebar-wrapper {
         position: static;
         float: right;
-        width: 40%;
+        width: 30%;
         -webkit-print-color-adjust: exact; 
     }
 
-    .remove-container.container-block {
+   /* .remove-container.container-block {
        display: none;
-    }
+    }*/
 
     footer {
        display: none;
